@@ -22,5 +22,5 @@ mccPing is a light-weight DLL that allows you to:
 * ```\mccping\readme.txt            ``` - This File
 * ```\mccping\mccping.dll           ``` - The mccping dll file.
 
-**NOTE:** The mcchttp.dll file should be place in a directory that is
+**NOTE:** The ```mccping.dll``` file should be place in a directory that is
 part of the path i.e. ```c:\windows\system32\```
